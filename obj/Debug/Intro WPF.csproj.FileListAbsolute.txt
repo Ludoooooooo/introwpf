@@ -1,0 +1,16 @@
+C:\Users\LudoM\Desktop\C#\Intro WPF\bin\Debug\Intro WPF.exe.config
+C:\Users\LudoM\Desktop\C#\Intro WPF\bin\Debug\Intro WPF.exe
+C:\Users\LudoM\Desktop\C#\Intro WPF\bin\Debug\Intro WPF.pdb
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro WPF.csproj.AssemblyReference.cache
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\MainWindow.g.cs
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\App.g.cs
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro WPF_MarkupCompile.cache
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro WPF_MarkupCompile.lref
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\MainWindow.baml
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro WPF.g.resources
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro_WPF.Properties.Resources.resources
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro WPF.csproj.GenerateResource.cache
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro WPF.csproj.CoreCompileInputs.cache
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro WPF.exe
+C:\Users\LudoM\Desktop\C#\Intro WPF\obj\Debug\Intro WPF.pdb

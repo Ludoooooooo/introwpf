@@ -1,0 +1,39 @@
+﻿<Window x:Class="Intro_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Intro_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="265*"/>
+            <RowDefinition Height="169*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock TextWrapping="Wrap" Margin="336,10,383,237">
+            C'est le Titre <LineBreak/>
+        </TextBlock>
+
+        <TextBlock TextWrapping="Wrap" Margin="200,90,466,132">
+            Zone de Texte <LineBreak/>
+        </TextBlock>
+
+        <TextBlock TextWrapping="Wrap" Margin="434,90,232,132">
+            Zone de Texte 2 <LineBreak/>
+        </TextBlock>
+
+        <TextBox AcceptsReturn="True" TextWrapping="Wrap" Margin="400,222,214,99" Grid.RowSpan="2">
+            Qu'est ce qu'on écrit ?
+        </TextBox>
+
+        <Button Click="Button_Click" Margin="209,173,474,48" Background="#FFF1FF00">
+            Enregistrer
+        </Button>
+
+        <Button Click="Button_Click2" Margin="442,173,241,48" Background="#FFF1FF00">
+            Réinitialiser
+        </Button>
+    </Grid>
+</Window>
